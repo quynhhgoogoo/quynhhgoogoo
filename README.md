@@ -35,7 +35,6 @@ My name is Quynh, a fresh graduate Information Technology student. I come from H
 
 |      School :bug:  |    Degree   |    Major   | Minor  | Academic Year  |
 |---------------------|---------------------|---------------------|---------------------|-----|
-| [**Aalto University - School of Electrical Engineering**](https://www.aalto.fi/en) | Master of Science, Automation and Electrical Engineering | Embedded Systems Sensing | 🗓️ Data Sciences | 2021-2023 |
 | [**Vaasa University of Applied Sciences - School of Technology**](https://www.vamk.fi/en/)  | Bachelor of Engineering, Information Technology | Embedded Systems | Telecommunications Engineering | 2016-2020 |
 | [**Nguyen Hue High School for Gifted Student**](https://en.wikipedia.org/wiki/Nguyen_Hue_High_School_for_the_Gifted)  | Highschool Diploma, Natural Sciences |Physics|  | 2013-2016 |
 
