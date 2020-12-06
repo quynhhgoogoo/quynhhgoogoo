@@ -15,7 +15,7 @@ My name is Quynh, a fresh graduate Information Technology student. I come from H
   <p align="center">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=quynhhgoogoo&show_icons=true&locale=en&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=quynhhgoogoo&layout=compact&langs_count=10&show_icons=true&locale=en&theme=cobalt"
       alt="quynhhgoogoo"
     />
   </p>
@@ -25,7 +25,7 @@ My name is Quynh, a fresh graduate Information Technology student. I come from H
   <summary>📈 Github stats</summary>
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=quynhhgoogoo&show_icons=true&locale=en&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=quynhhgoogoo&show_icons=true&locale=en&theme=cobalt"
       alt="quynhhgoogoo"
     />
   </p>
