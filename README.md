@@ -31,6 +31,9 @@ My name is Quynh, a fresh graduate Information Technology student. I come from H
   </p>
 </details>
 
+<details>
+  <summary> 🌱 Personal Background</summary>
+  
 ### Education 🌱
 
 |      School :bug:  |    Degree   |    Major   | Minor  | Academic Year  |
@@ -48,6 +51,7 @@ My name is Quynh, a fresh graduate Information Technology student. I come from H
 | **Nokia Networks and Solutions**  | Espoo, Finland | Summer Trainee and Thesis Worker | 5G Evolution, Analytics and Automation | May 2019 - September 2019 and December 2019 - August 2020|
 
 <br />
+</details>
 
 ### How to reach me 📫
 
