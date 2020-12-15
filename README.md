@@ -38,7 +38,7 @@ My name is Quynh. I come from Ha Noi, Viet Nam and currently located in Espoo, F
 
 |      School :bug:  |    Degree   |    Major   | Minor  | Academic Year  |
 |---------------------|---------------------|---------------------|---------------------|-----|
-| [**Aalto University**](https://www.aalto.fi)  | Master of Science, Automation and Electrical Engineering | Embedded Systems and Sensing | Data Sciences | Gap year|
+| [**Aalto University**](https://www.aalto.fi)  | Master of Science, Automation and Electrical Engineering | Embedded Systems and Sensing | Data Science | Gap year|
 | [**Vaasa University of Applied Sciences**](https://www.vamk.fi/en/)  | Bachelor of Engineering, Information Technology | Embedded Systems | Telecommunications Engineering | 2016-2020 |
 | [**Nguyen Hue High School for Gifted Student**](https://en.wikipedia.org/wiki/Nguyen_Hue_High_School_for_the_Gifted)  | Highschool Diploma, Natural Sciences |Physics|  | 2013-2016 |
 
