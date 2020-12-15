@@ -48,7 +48,7 @@ My name is Quynh. I come from Ha Noi, Viet Nam and currently located in Espoo, F
 
 |      Company   |    Location   |    Position    |    Squad |  Duration  |
 |---------------------|-------------------|------------------|------------------|---|
-| **Ericsson** | Jorvas, Finland | Software Developer Trainee | IMS Gateways | December 2019 - Present |
+| **Ericsson** | Jorvas, Finland | Software Developer Trainee | IMS Gateways | November 2019 - Present |
 | **Nokia Networks and Solutions**  | Espoo, Finland | Summer Trainee and Thesis Worker | 5G Evolution, Analytics and Automation | May 2019 - September 2019 and December 2019 - August 2020|
 
 <br />
